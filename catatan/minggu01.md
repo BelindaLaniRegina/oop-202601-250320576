@@ -15,3 +15,4 @@ Kendala yang menyulitkan bagi saya adalah disaat ingin run ternyata javanya belu
 - Prompt utama: 1. Ini suruh ngapain ae dah? (saya up minggu01.md) dan 2. Saya bertanya kenapa terjadi error pada bagian yang error (saya paste penjelasan error pada terminal)
 - Yang saya ubah atau tolak dari saran AI, dan alasannya: Saya ada menolak code yang diberikan ai karena dengan code yang diberikan ai saya nambah bingung dan saya juga sudah mencoba memahaminya dengan bantuan teman saya
 - Satu hal yang saya pahami lebih baik sekarang: Saya menjadi lebih mengerti dengan cara penggunaan ketiga paradigma tersebut yang ternyata memiliki perbedaan satu sama lainnya.
+
