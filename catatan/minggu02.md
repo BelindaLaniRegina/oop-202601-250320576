@@ -14,4 +14,4 @@ Ada dioutputnya yang error terus menerus sampai saya bingung kenapa. Ternyata, o
 - Bagian yang dibantu AI: Saya dibantu dalam bagian memecahkan masalah pada output yang error
 - Prompt utama: Apa yang salah dengan codingannya karena output yang dihasilkan error lalu saya pastekan hasil errornya.
 - Yang saya ubah atau tolak dari saran AI, dan alasannya: Saya ada menolak saran yang diberikan oleh ai saat memecahkan masalah errornya. Karena dia menyarankan untuk mengubah bagian yang seharusnya tidak perlu diubah. Lalu saya mengubah dan menjelaskan lebih lanjut kepada AInya sampai akhirnya saya mendapatkan hasil yang saya inginkan
-- Satu hal yang saya pahami lebih baik sekarang:
+- Satu hal yang saya pahami lebih baik sekarang: Yang lebih baik, saya menjadi belajar lebih dan mengerti sedikit tentang cara kerja class, object dan encapsulation.
